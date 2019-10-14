@@ -1,0 +1,67 @@
+.logo img{
+	width:100.181px;
+	margin-left: 30px;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	display: inline-block;
+	vertical-align: middle;
+	margin-bottom:30px;
+	font-size:22px;
+	color:blue;
+}
+.mtavari{
+	color:red;
+}
+.navigation-li{
+	display: inline-block;
+	margin-right:30px;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left:48.247px;
+}
+.date{
+	background-color: blue;
+	width: 50px;
+	font-size: 48px;
+	margin-left: 30px;
+	padding: 10px;
+	color: white;
+}
+.month{
+	color: blue;
+	font-size: 22px;
+	margin-left: 35px;
+	margin-top: 10px;
+}
+.text1{
+	font-size: 20px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+.pic1{
+	width: 270px;
+	margin-left: 30px;
+	margin-top: 30px;
+}
+p{
+	margin-left: 30px;
+	width: 930px;
+	margin-left: 30px;
+	font-size: 16px;
+}
+.section2{
+	display: inline-block;
+	vertical-align: top;
+}
+.section3{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 30px;
+	
+}
