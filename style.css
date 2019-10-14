@@ -82,3 +82,46 @@ p{
 .fb{
 	margin-right: 30px;
 }
+.contact1{
+	color: blue;
+	font-size: 20px;
+	margin-left: 30px;
+	margin-bottom: 5px;
+}
+.adress1{
+	margin-left: 30PX;
+	color: #808080;
+	font-size: 16PX;
+	display: inline-block;
+}
+.adress2{
+	font-size: 16px;
+	display: inline-block;
+}
+.mail1{
+	margin-left: 30PX;
+	color: #808080;
+	font-size: 16PX;
+	margin-top: 5px;
+	display: inline-block;
+}
+.mail2{
+	font-size: 16px;
+	display: inline-block;
+}
+.section5{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 81px;
+}
+.section6{
+	display: inline-block;
+	background-color: #E6E6E6;
+	widows: 1366px;
+	margin-bottom: 30px;
+}
+.map{
+	width: 874px;
+	margin-left: 92px;
+	margin-top: 71px;
+}
