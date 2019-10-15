@@ -24,6 +24,7 @@ a{
 	display: inline-block;
 	vertical-align: middle;
 	margin-left:48.247px;
+	font-family: 'BPG Banner ExtraSquare';
 }
 
 .contact_map_fluid {
@@ -48,6 +49,7 @@ a{
 	font-size: 20px;
 	margin-left: 30px;
 	margin-top: 30px;
+	font-family: 'BPG Banner ExtraSquare';
 }
 .pic1{
 	width: 270px;
@@ -70,6 +72,7 @@ p{
 	margin-left: 30px;
 	font-size: 16px;
 	margin-bottom: 50px;
+	font-family: 'ALK Life';
 }
 .section2{
 	display: inline-block;
