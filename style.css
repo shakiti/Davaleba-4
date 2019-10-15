@@ -25,6 +25,11 @@ a{
 	vertical-align: middle;
 	margin-left:48.247px;
 }
+
+.contact_map_fluid {
+	    background-color: #E6E6E6;
+}
+
 .date{
 	background-color: blue;
 	width: 50px;
@@ -116,7 +121,6 @@ p{
 }
 .section6{
 	display: inline-block;
-	background-color: #E6E6E6;
 	widows: 1366px;
 	margin-bottom: 30px;
 }
@@ -124,4 +128,7 @@ p{
 	width: 874px;
 	margin-left: 92px;
 	margin-top: 71px;
+}
+footer{
+	padding: 30px;
 }
